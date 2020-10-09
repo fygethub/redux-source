@@ -31,4 +31,5 @@ function applyMiddleware(middlewares) {
   }
 }
 
-module.exports = applyMiddleware;
+// module.exports = applyMiddleware;
+export default  applyMiddleware;

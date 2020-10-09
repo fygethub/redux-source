@@ -43,4 +43,5 @@ function combineReducers(reducers) {
   }
 }
 
-module.exports = combineReducers;
+// module.exports = combineReducers;
+export default combineReducers;
